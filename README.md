@@ -53,6 +53,6 @@ Eu sou o <strong>Paulo</strong>! Formado em engenharia química, mas atualmente 
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
-    <img height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVeiga14&layout=compact&theme=blue-green" />
+    <img height="195" width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVeiga14&layout=compact&theme=blue-green" />
   </a>
 <div>
