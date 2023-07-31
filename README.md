@@ -1,13 +1,12 @@
 ## Olá, mundo! 👋
 
 <div>
-Eu sou o <strong>Paulo</strong>! Formado em engenharia química, mas atualmente em transição de carreira para o desenvolvimento de software! Apaixonado por futebol, churrasco, cerveja e por melhorar a vida das pessoas através da tecnologia!
+Eu sou o <strong>Paulo</strong>! Desenvolvedor de Software Junior na Vetta S.A! 
 </div>
 
 ## Curiosidades
 
 <ul>
-  <li>👨🏻‍💻 Atualmente faço parta da turma 14 (Turma De Arrascaeta!) do curso da Trybe! Estou finalizando o módulo de <strong>Ciência da Computação</strong>!
   <li>🖥️ Quando se trata de <strong>Front-end</strong> utilizo o framework <strong>React</strong>, seja com <strong>Redux</strong>, seja com <strong>ReactHooks</strong>. Tenho interesse em aprender outros frameworks, como <strong>Vue</strong> e <strong>Angular</strong>, mas, como sinto que ainda possuo grande dificuldade com o <strong>CSS</strong>, entendo que isso deva ser um ponto a ser desenvolvido com prioridade.</li>
   <li>⚽ Gosto bastante de <strong>futebol</strong>! Sou horrível jogando, mas amo assistir e entender como os times se comportam taticamente! Quando no Rio, partiu Maracanã!</li>
 </ul>
